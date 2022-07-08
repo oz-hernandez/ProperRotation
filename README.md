@@ -1,2 +1,4 @@
-contains a unity tool for making proper rotations according to proper rotation matrix:
-[](https://wikimedia.org/api/rest_v1/media/math/render/svg/f259f80a746ee20d481f9b7f600031084358a27c)
+### Contains a unity tool for making proper rotations around any axis and angle:
+![image](https://user-images.githubusercontent.com/8952345/177906855-3bf2fd2c-82f2-4629-873d-c69fbd6dd25a.png)
+
+Script: Assets/Transform.cs
